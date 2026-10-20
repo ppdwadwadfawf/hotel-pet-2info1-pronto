@@ -1,0 +1,34 @@
+{
+  "tutores": [
+    {
+      "id": "1",
+      "nome": "João",
+      "telefone": "479999100100"
+    },
+    {
+      "id": "2",
+      "nome": "Maria",
+      "telefone": "479999100100"
+    },
+    {
+      "id": "3",
+      "nome": "Ana",
+      "telefone": "479999100100"
+    }
+  ],
+  "pets": [
+    {
+      "id": "2",
+      "nome": "Melado",
+      "especie": "Cachorro",
+      "tutorId": "2"
+    },
+    {
+      "id": "3",
+      "nome": "Pandora",
+      "especie": "Gato",
+      "tutorId": "3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
